@@ -1,6 +1,6 @@
 ---
-title: "Nome_Aluno(a)"
-image: "logo.png"
+title: "Ivair Ferreira de Souza"
+image: "logo.JPG"
 links:
   - label: GitHub
     url: "https://github.com/"
