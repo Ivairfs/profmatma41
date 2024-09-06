@@ -1,7 +1,7 @@
 ---
 title: "Relatório 01 - Introdução ao MarKdown e Latex"
-author: "Ben Dêivide"
-date: "12/04/2022"
+author: "Ivair Ferreira de Souza"
+date: "06/09/2024"
 header-includes:
   - \usepackage{titling}
   - \pretitle{\begin{center}
